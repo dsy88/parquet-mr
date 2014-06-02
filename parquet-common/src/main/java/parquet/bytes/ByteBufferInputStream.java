@@ -1,4 +1,4 @@
-package parquet.hadoop.util;
+package parquet.bytes;
 
 import java.io.IOException;
 import java.io.InputStream;
